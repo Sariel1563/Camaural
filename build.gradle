@@ -1,0 +1,6 @@
+dependencies {
+    implementation 'com.google.cloud:google-cloud-speech:2.5.0'
+    implementation 'edu.stanford.nlp:stanford-corenlp:4.5.1'
+    implementation 'com.google.android.gms:play-services-auth:20.4.1'
+    implementation 'edu.stanford.nlp:stanford-corenlp:4.2.2:models'
+}
